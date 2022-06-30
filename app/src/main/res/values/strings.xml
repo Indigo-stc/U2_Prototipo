@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LaCanchita</string>
+    <string name="simple">Simple</string>
+    <string name="tipo_de_cancha">Tipo de Cancha</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="_0">0</string>
+    <string name="cuenca">Cuenca</string>
+    <string name="fecha">Fecha</string>
+    <string name="yyyy_mm_dd">YYYY/MM/DD</string>
+    <string name="next">NEXT</string>
+    <string name="cuenca_hint">Cuenca</string>
+    <string name="back">BACK</string>
+    <string name="escoger">Escoger</string>
+    <string name="volley_ball">volley_ball</string>
+    <string name="todo">TODO</string>
+    <string name="n_tarjeta">N. Tarjeta</string>
+    <string name="precio_final_30">Precio Final: $30</string>
+    <string name="xxxx_xxxx_xxxx">XXXX-XXXX-XXXX</string>
+    <string name="xxx_xxxx_xxxx">card</string>
+    <string name="xxx_xxx_xxxx">xxx-xxx-xxxx</string>
+    <string name="c_digo">Código</string>
+    <string name="pay">PAY</string>
+    <string name="_0000">0000</string>
+</resources>
